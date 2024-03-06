@@ -1,0 +1,35 @@
+#root .main-page .header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px 237px 20px 220px;
+}
+#root .main-page .header .date {
+  color: white;
+  font-size: 25px;
+}
+#root .main-page .header .menu {
+  width: 40px;
+  height: 40px;
+}
+#root .main-page .region {
+  color: white;
+  padding: 0 220px;
+  font-size: 20px;
+}
+#root .main-page .weather-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 200px;
+}
+#root .main-page .weather-container .tmp {
+  color: white;
+  padding: 30px 20px;
+  font-size: 100px;
+  font-weight: 700;
+}
+#root .main-page .weather-container .sky {
+  width: 200px;
+  height: 172px;
+}/*# sourceMappingURL=style.css.map */

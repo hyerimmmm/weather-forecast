@@ -1,0 +1,13 @@
+html,
+body {
+  height: 100%;
+  width: 100%;
+  padding: unset;
+  margin: unset;
+  background-color: #7099e8;
+}
+
+#root {
+  height: 100%;
+  overflow-x: hidden;
+}/*# sourceMappingURL=core.css.map */
